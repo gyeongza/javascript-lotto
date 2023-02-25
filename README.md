@@ -4,6 +4,8 @@
 
 ---
 
+[배포 사이트](https://gyeongza.github.io/javascript-lotto/dist)
+
 ### 실행방법
 
 ```
